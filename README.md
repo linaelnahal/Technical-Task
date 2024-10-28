@@ -7,15 +7,16 @@ This repository contains the automation scripts developed for testing the My Sto
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [UI Testing](#ui-testing)
-- [HTML Report](#html-report)
+- [HTML Report (UI)](#html-report)
 - [Test Scenarios](#test-scenarios)
 - [Bug Reporting](#bug-reporting)
 - [Test Documentation](#test-documentation)
 - [API Testing](#api-testing)
-- [HTML Report](#api-html-report)
+- [HTML Report(API)](#api-html-report)
 - [Test Scenarios](#api-test-scenarios)
 - [Bug Reporting](#bug-reporting-api)
-- [CI/CD Integration](#cicd-integration)
+- [CI/CD Integration (Not Completed)](#cicd-integration)
+- [CircleCI Status Badge (Not Completed)](#circleci-status-badge)
 
 ## Technologies Used
 - **NightwatchJS**: For UI testing with Page Object Model.
@@ -24,7 +25,7 @@ This repository contains the automation scripts developed for testing the My Sto
 
 ## UI Testing
 
-### HTML Report
+### HTML Report (UI)
 File Name: Nightwatch HTML Reporter.html (under the API Tests folder)
 
 ### Test Scenarios
@@ -57,7 +58,7 @@ A document listing all test cases, their descriptions, and expected outcomes is 
 
 ## API Testing
 
-### HTML Report
+### HTML Report (API)
 File Name: API Test HTML Report.html
 
 ### Test Scenarios
