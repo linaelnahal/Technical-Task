@@ -15,8 +15,8 @@ This repository contains the automation scripts developed for testing the My Sto
 - [HTML Report (API)](#html-report-api)
 - [Test Scenarios](#test-scenarios-1)
 - [Bug Reporting](#bug-reporting-api)
-- [CI/CD Integration (Not Completed)](#cicd-integration)
-- [CircleCI Status Badge (Not Completed)](#circleci-status-badge)
+- [CI/CD Integration (Not Completed)](#cicd-integration-not-completed)
+- [CircleCI Status Badge (Not Completed)](#circleci-status-badge-not-completed)
 
 ## Technologies Used
 - **NightwatchJS**: For UI testing with Page Object Model.
